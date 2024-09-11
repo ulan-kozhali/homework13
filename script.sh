@@ -2,9 +2,9 @@
 
 
 function user() {
-	useradd tim
-	useradd bred
-	useradd ann
+	sudo useradd tim
+	sudo useradd bred
+	sudo useradd ann
 	mkdir kaizen
 	mkdir ulan
 	touch hello
